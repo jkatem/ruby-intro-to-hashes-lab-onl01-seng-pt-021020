@@ -1,13 +1,19 @@
 def new_hash
-
+# want to return new empty hash
+  hash = {}
+	return hash
 end
 
 def actor
-
+  actor = {
+    :name => "Dwayne The Rock Johnson"
+  }
 end
 
 def monopoly
-	monopoly = {}
+  monopoly = {
+  :railroads => {}
+}
 
 end
 
